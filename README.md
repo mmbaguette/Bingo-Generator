@@ -7,7 +7,7 @@ Customize the number of rows, columns and the background image template.
 
 ## Sample card:
 
-![Bingo Card Sample](https://github.com/mmbaguette/Bingo-Generator/blob/main/cards%20and%20templates/Table%201.jpg?raw=true)
+![Bingo Card Sample](https://github.com/mmbaguette/Bingo-Generator/blob/main/cards%20and%20templates/Table%202.jpg?raw=true)
 
 ## Template used for sample:
 
